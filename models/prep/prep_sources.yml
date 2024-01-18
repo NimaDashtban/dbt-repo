@@ -1,0 +1,7 @@
+version: 2
+sources:
+- name: prep
+  schema: public
+  tables:
+    - name: raw_temp
+    
